@@ -1,17 +1,5 @@
 ## Welcome to my GitHub Profile!
-
-### A bit about me
-
-- 😄 Name: ... Pamela Hammond (I go by Pam)
-- 👩🏻 Pronouns: ... She/Her/Hers
-- 🔭 I’m currently working on ... Editing my portfolio 
-- 🌱 I’m currently learning ... SQL
-- 💬 Ask me about ... My hobbies 🎾🧩
-- 📫 How to reach me: ... Email: Hammondpamelac@gmail.com
-- ⚡ Fun fact: ... I collect Pusheen the Cat items 🐱
-
-
-______________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________
 
 
 <a href=“https://github.com/PamtheHam/PamtheHam”>
@@ -22,4 +10,18 @@ ________________________________________________________________________________
   <img align=“left” src=“https://github-readme-stats.vercel.app/api?username=PamtheHam&line_height=27&count_private=false&title_color=57A6FF&text_color=c9cacc&icon_color=57A6FF&bg_color=0D1116&border_color=57A6FF” alt=“Pam's Github Statistics”/>
 </a>
 
+_________________________________________________________________________________________________________________
+
+
+### A Bit About Me
+
+- 😄 Name: ... Pamela Hammond (I go by Pam)
+- 👩🏻 Pronouns: ... She/Her/Hers
+- 🔭 I’m currently working on ... Editing my portfolio 
+- 🌱 I’m currently learning ... SQL
+- 💬 Ask me about ... My hobbies 🎾🧩
+- 📫 How to reach me: ... Email: Hammondpamelac@gmail.com
+- ⚡ Fun fact: ... I collect Pusheen the Cat items 🐱
+
+_________________________________________________________________________________________________________________
 
