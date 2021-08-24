@@ -9,6 +9,3 @@
 - 💬 Ask me about ... My hobbies 🎾🧩
 - 📫 How to reach me: ... Email: Hammondpamelac@gmail.com
 - ⚡ Fun fact: ... I collect Pusheen the Cat items 🐱
-
-_________________________________________________________________________________________________________________
-
