@@ -2,7 +2,7 @@
 
 ### A Bit About Me
 
-- 😄 Name: ... Pamela Hammond (I go by Pam)
+- 😄 Name: ... Pamela Hammond
 - 👩🏻 Pronouns: ... She/Her/Hers
 - 🔭 I’m currently working on ... Editing my portfolio 
 - 🌱 I’m currently learning ... React
