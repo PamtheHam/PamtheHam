@@ -50,7 +50,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
             alt="Email Pamela"/>
     </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/pamelahammond04/">
+    <a href="https://www.linkedin.com/in/pamelahammond94/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
             alt="Pamela's LinkedIn Profile"/>
     </a>&nbsp;&nbsp;
