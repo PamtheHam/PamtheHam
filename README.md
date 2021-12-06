@@ -1,6 +1,7 @@
-## Welcome to my GitHub Profile!
 
-### A Bit About Me
+<h1 align="center">
+  A Bit About Me
+</h1>
 
 - 😄 Name: ... Pamela Hammond
 - 👩🏻 Pronouns: ... She/Her/Hers
@@ -12,7 +13,9 @@
 
 
 
- ## Tools/Skills/and Technologies
+<h1 align="center">
+  Tools/Skills/and Technologies
+</h1>
 
 <br>
 <div align="center">
@@ -38,8 +41,21 @@
 ![MySQL](https://img.shields.io/badge/MySQL-coral?style=for-the-badge&logo=mysql&logoColor=darkblue)&nbsp;
 ![MERN](https://img.shields.io/badge/MERN-coral?style=for-the-badge&logo=MERN&logoColor=white)&nbsp;
 
+<h1 align="center">
+    Contact me
+</h1>
 
-
-
-
+<p align="center">
+    <a href="mailto:hammondpamelac@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+            alt="Email Pamela"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/pamelahammond04/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+            alt="Pamela's LinkedIn Profile"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://pamtheham.github.io/Portfolio/">
+            <img src="https://img.shields.io/badge/MyPortfolio-00FE11?style=for-the-badge&logo=""&logoColor=white" alt="Pamela's Portfolio"/>
+        </a>
+</p>
 </div>
