@@ -38,6 +38,8 @@
 ![Mongoose](https://img.shields.io/badge/mongoose-800E00?style=for-the-badge&logo=mongoose&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-coral?style=for-the-badge&logo=mysql&logoColor=darkblue)&nbsp;
 ![MERN](https://img.shields.io/badge/MERN-coral?style=for-the-badge&logo=MERN&logoColor=white)&nbsp;
+![Materialize](https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white)&nbsp;
+![Sequelize](https://img.shields.io/badge/Sequelize-blue?style=for-the-badge&logo=Sequelize)&nbsp;
 
 <h1 align="center">
     Contact me
