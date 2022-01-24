@@ -5,8 +5,8 @@
 
 - 😄 Name: ... Pamela Hammond
 - 👩🏻 Pronouns: ... She/Her/Hers
-- 🔭 I’m currently working on ... Editing my portfolio 
-- 🌱 I’m currently learning ... React
+- 🔭 I’m currently working on ... my new website Pam's Virtual Vanity
+- 🌱 I’m currently refreshing my knowledge on ... React, GraphQL & MongoDB
 - 💬 Ask me about ... My hobbies 🎾🧩
 - 📫 How to reach me: ... Email: Hammondpamelac@gmail.com
 - ⚡ Fun fact: ... I collect Pusheen the Cat items 🐱
